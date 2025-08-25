@@ -1,1 +1,1 @@
-input("your name?")
+input("your name?:MODDA")
